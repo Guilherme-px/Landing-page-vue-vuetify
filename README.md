@@ -5,6 +5,10 @@
 an example landing page for a coffee shop.
 
 
+
+[my-project](https://guilherme-px.github.io/coffee-page/)
+
+
 **Main tools used:**
 
 * Vuejs
